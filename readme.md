@@ -1,6 +1,6 @@
 # BOILERPLATE DIRECTIONS
 
-- clone with command `npx degit githubusername/githubreponame#branchname projectName`
+- clone with command `npx degit chrissouth89/exp-mon-bp.git#main projectName`
 
 - cd into new project folder
 
