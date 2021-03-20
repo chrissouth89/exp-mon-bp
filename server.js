@@ -8,7 +8,7 @@ const express = require("express")
 
 // IMPORT DATABASE CONNECTION
 
-const mongoose = require("./db/connection")
+const mongoose = require("./db/connect")
 
 // IMPORT MERCED LOGGER
 
